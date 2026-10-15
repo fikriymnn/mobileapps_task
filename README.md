@@ -2,7 +2,7 @@
 
 Tugas Mata Kuliah PPB.
 
-link referensi: (https://dribbble.com/shots/24425951-Clean-Minimal-Todo-List-Design)
+link referensi desain: (https://dribbble.com/shots/24425951-Clean-Minimal-Todo-List-Design)
 
 ## Getting Started
 
